@@ -80,25 +80,6 @@ The pipeline follows these stages:
 
 ---
 
-## Repository Structure
-
-```bash
-drift-detection-student-answers/
-│
-├── notebooks/
-│   └── drift_detection_pipeline.py
-│
-├── reports/
-│   ├── final_report.pdf
-│   └── synopsis.pdf
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-```
-
----
-
 ## Dataset
 
 The project uses a custom synthetic dataset containing undergraduate-level student answers from domains such as:
