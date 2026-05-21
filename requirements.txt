@@ -1,0 +1,11 @@
+numpy
+pandas
+torch
+transformers
+scikit-learn
+scipy
+matplotlib
+datasets
+river
+jupyter
+ipykernel
