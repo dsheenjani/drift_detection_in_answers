@@ -92,14 +92,9 @@ drift-detection-student-answers/
 │   ├── final_report.pdf
 │   └── synopsis.pdf
 │
-├── figures/
-│
-├── results/
-│
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
-└── .gitignore
 ```
 
 ---
